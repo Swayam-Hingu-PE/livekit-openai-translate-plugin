@@ -31,8 +31,8 @@ classifiers = [
 ]
 
 dependencies = [
-    "livekit-agents>=1.6.4",
-    "livekit-plugins-openai>=1.6.4",
+    "livekit-agents>=1.5.4",
+    "livekit-plugins-openai>=1.5.4",
     "aiohttp>=3.9",
     "openai>=1.0",
 ]
